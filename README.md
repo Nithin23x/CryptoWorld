@@ -2,7 +2,7 @@
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-## <a href="cryptoworld-nithin.netlify.app" target="_blank" >Final Website (Netlify) </a>
+## <a href="https://cryptoworld-nithin.netlify.app/" target="_blank" >Final Website (Netlify) </a>
 
 Currently, two official plugins are available:
 
